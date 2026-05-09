@@ -1,5 +1,4 @@
-and Extra Large (Size >= 1200px) - Notes View](https://assets.ccbp.in/frontend/content/react-js-hooks/notes-app-notes-lg-output.png)
-Notes App
+Notes Application
 
 A simple Notes Application built using React Hooks and Styled Components.
 Users can add notes with a title and description, and the app dynamically updates the UI.
